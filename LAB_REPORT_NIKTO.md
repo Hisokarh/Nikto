@@ -61,7 +61,7 @@ Use Nikto to scan a vulnerable web application and report findings, evidence (sc
 ## Screenshots captured
 Place screenshots in `screenshots/`:
 - screenshots/Nikto.png — Nikto running in terminal
-- screenshots/Nikto.png — Important output highlighted
+- screenshots/Niktoo.png — Important output highlighted
 - screenshots/vulnerable-page-phpinfo.png — evidence of phpinfo or admin page
 
 ## Findings and observations (examples)
